@@ -1,3 +1,4 @@
 # Apnacollege
 This is my first repository
-Autho- Amar Chute 
+<br>
+Author- Amar Chute 
